@@ -1,4 +1,3 @@
-
 <p align="center">
  <img width="100px" src="https://www.gas.zip/gasLogo400x400.png" align="center" />
  <h3 align="center">Gas.zip Global Chain List</h3>
@@ -33,7 +32,9 @@ Your chainID.json should have, at minimum, the following:
 Your PR should additionally have the following inline, but **not** in the chains.json: 
 
 **Website:** 
+
 **Chain Logo:**
+
 **Bridge:**
 
 ## Submission Tips
@@ -41,15 +42,23 @@ Your PR should additionally have the following inline, but **not** in the chains
 For the highest quality submission and best chances of being added to the repositry, please consider the following tips: 
 
 **chainID:** Formal chainID
+
 **rpcs:** Public RPCs, ideally as many as possible however one is sufficent. 
-**name:** Formal chain name (including, X Sepolia, X Testnet if not Sepolia bridged or etc)
+
+**name:** Formal chain name (including, X Sepolia, X Testnet if not Sepolia bridged or etc).
+
 **symbol:** Canonical tokens symbol or ticker (the chains gas token). 
+
 **mainnet:** True or false. 
-**address:** EVM, SVM, MOVE, or INIT
+
+**address:** EVM, SVM, MOVE, or INIT.
+
 **explorer:** Explorer URL, active and working.
 
 **Website:** Formal project website.
+
 **Chain Logo:** Ideally, a 400 x 400 SVG. PNGs acceptable however SVGs strongly preferred. 
+
 **Bridge:** Ideally, the canonical bridge, if not, then the primary method of bridging assets to the chain. 
 
 ## Contribution Points
