@@ -1,0 +1,11 @@
+{
+    "chainId": "53302",
+    "rpcs": [
+        "https://superseed-sepolia.g.alchemy.com/v2/7CYIKsaepW8DSjVC9-dY7NoEyc8b_OTm"
+    ],
+    "name": "Superseed Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://sepolia-explorer.superseed.xyz"
+}

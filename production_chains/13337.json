@@ -1,0 +1,11 @@
+{
+    "chainId": "13337",
+    "rpcs": [
+        "https://subnets.avax.network/beam/testnet/rpc"
+    ],
+    "name": "Beam Testnet",
+    "symbol": "BEAM",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://subnets-test.avax.network/beam"
+}

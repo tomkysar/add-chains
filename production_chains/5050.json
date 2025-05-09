@@ -1,0 +1,11 @@
+{
+    "chainId": "5050",
+    "rpcs": [
+        "https://rpc.skatechain.org"
+    ],
+    "name": "Skate",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": ""
+}

@@ -1,0 +1,11 @@
+{
+    "chainId": "33979",
+    "rpcs": [
+        "https://funki-mainnet-archive.alt.technology"
+    ],
+    "name": "Funkichain",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://funkiscan.io"
+}

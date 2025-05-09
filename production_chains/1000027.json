@@ -1,0 +1,9 @@
+{
+    "chainId": "1000027",
+    "rpcs": [],
+    "name": "Intergaze",
+    "symbol": "INIT",
+    "mainnet": true,
+    "address": "INIT",
+    "explorer": "https://scan.initia.xyz/intergaze-1"
+}

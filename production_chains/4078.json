@@ -1,0 +1,11 @@
+{
+    "chainId": "4078",
+    "rpcs": [
+        "https://muster.alt.technology"
+    ],
+    "name": "Muster Network",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://muster-explorer.alt.technology"
+}

@@ -1,0 +1,11 @@
+{
+    "chainId": "6806",
+    "rpcs": [
+        "https://racetestnet.io"
+    ],
+    "name": "Race Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://testnet.racescan.io"
+}

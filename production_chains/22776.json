@@ -1,0 +1,11 @@
+{
+    "chainId": "22776",
+    "rpcs": [
+        "https://rpc.maplabs.io"
+    ],
+    "name": "MAP",
+    "symbol": "MAPO",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://maposcan.io"
+}

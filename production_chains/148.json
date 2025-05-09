@@ -1,0 +1,11 @@
+{
+    "chainId": "148",
+    "rpcs": [
+        "https://json-rpc.evm.shimmer.network/"
+    ],
+    "name": "ShimmerEVM",
+    "symbol": "SMR",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.evm.shimmer.network"
+}

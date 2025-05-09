@@ -1,0 +1,11 @@
+{
+    "chainId": "420000",
+    "rpcs": [
+        "https://rpc.infinaeon.com"
+    ],
+    "name": "Infinaeon",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.infinaeon.com"
+}

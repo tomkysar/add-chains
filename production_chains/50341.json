@@ -1,0 +1,11 @@
+{
+    "chainId": "50341",
+    "rpcs": [
+        "https://reddio-dev.reddio.com"
+    ],
+    "name": "Reddio Devnet",
+    "symbol": "REDD",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://reddio-devnet.l2scan.co"
+}

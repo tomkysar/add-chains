@@ -1,0 +1,11 @@
+{
+    "chainId": "18686",
+    "rpcs": [
+        "https://rpc.mxc.com"
+    ],
+    "name": "MXC zkEVM",
+    "symbol": "MXC",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.mxc.com"
+}

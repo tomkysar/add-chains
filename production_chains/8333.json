@@ -1,0 +1,11 @@
+{
+    "chainId": "8333",
+    "rpcs": [
+        "https://mainnet-rpc.b3.fun/http"
+    ],
+    "name": "B3",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.b3.fun/"
+}

@@ -1,0 +1,11 @@
+{
+    "chainId": "4801",
+    "rpcs": [
+        "https://worldchain-sepolia.g.alchemy.com/public"
+    ],
+    "name": "Worldchain Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://worldchain-sepolia.explorer.alchemy.com"
+}

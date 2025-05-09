@@ -1,0 +1,11 @@
+{
+    "chainId": "1029",
+    "rpcs": [
+        "https://pre-rpc.bt.io/"
+    ],
+    "name": "BitTorrent Donau",
+    "symbol": "BTT",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://testnet.bttcscan.com"
+}

@@ -1,0 +1,9 @@
+{
+    "chainId": "1000006",
+    "rpcs": [],
+    "name": "Fuel",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "FUEL",
+    "explorer": "https://app.fuel.network"
+}

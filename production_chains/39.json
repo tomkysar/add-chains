@@ -1,0 +1,11 @@
+{
+    "chainId": "39",
+    "rpcs": [
+        "https://rpc-mainnet.u2u.xyz"
+    ],
+    "name": "U2U Solaris",
+    "symbol": "U2U",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": ""
+}

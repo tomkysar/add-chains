@@ -1,0 +1,11 @@
+{
+    "chainId": "5124",
+    "rpcs": [
+        "https://node-2.seismicdev.net/rpc"
+    ],
+    "name": "Seismic Devnet",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://explorer-2.seismicdev.net"
+}

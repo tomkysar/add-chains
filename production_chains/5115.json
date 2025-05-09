@@ -1,0 +1,11 @@
+{
+    "chainId": "5115",
+    "rpcs": [
+        "https://rpc.testnet.citrea.xyz"
+    ],
+    "name": "Citrea Testnet",
+    "symbol": "BTC",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://explorer.testnet.citrea.xyz"
+}

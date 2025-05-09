@@ -1,0 +1,11 @@
+{
+    "chainId": "743111",
+    "rpcs": [
+        "https://testnet.rpc.hemi.network/rpc"
+    ],
+    "name": "Hemi Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://testnet.explorer.hemi.xyz"
+}

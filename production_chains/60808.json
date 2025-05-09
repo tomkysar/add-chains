@@ -1,0 +1,13 @@
+{
+    "chainId": "60808",
+    "rpcs": [
+        "https://lb.drpc.org/ogrpc?network=bob&dkey=AoJh2RKNJUIviZEZZt-0igEzVw0J7wQR773l0mSYF3e0",
+        "https://rpc.gobob.xyz",
+        "https://rpc-bob-mainnet-0.t.conduit.xyz/BroiZZfDas2mzp3gtKNpwepAmJBtL39ZY"
+    ],
+    "name": "BOB",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.gobob.xyz"
+}

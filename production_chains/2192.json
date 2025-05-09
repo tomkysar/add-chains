@@ -1,0 +1,11 @@
+{
+    "chainId": "2192",
+    "rpcs": [
+        "https://mainnet.snaxchain.io"
+    ],
+    "name": "Snaxchain",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.snaxchain.io"
+}

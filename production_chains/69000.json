@@ -1,0 +1,11 @@
+{
+    "chainId": "69000",
+    "rpcs": [
+        "https://rpc-animechain-39xf6m45e3.t.conduit.xyz/Kzy4aQJhDyC6rSUu36dqkZM7eX5Wq8JqJ"
+    ],
+    "name": "Animechain",
+    "symbol": "ANIME",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer-animechain-39xf6m45e3.t.conduit.xyz"
+}

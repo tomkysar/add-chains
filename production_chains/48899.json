@@ -1,0 +1,11 @@
+{
+    "chainId": "48899",
+    "rpcs": [
+        "https://testnet.zircuit.com"
+    ],
+    "name": "Zircuit Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://explorer.testnet.zircuit.com"
+}

@@ -1,0 +1,11 @@
+{
+    "chainId": "1924",
+    "rpcs": [
+        "https://swell-testnet.alt.technology"
+    ],
+    "name": "Swell Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": ""
+}

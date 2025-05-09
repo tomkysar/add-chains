@@ -1,0 +1,12 @@
+{
+    "chainId": "3338",
+    "rpcs": [
+        "https://little-polished-bridge.peaq-mainnet.quiknode.pro/e87f4a90db158392c023ba4305c2f0de7e4ee159",
+        "https://evm.peaq.network"
+    ],
+    "name": "Peaq",
+    "symbol": "PEAQ",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://peaq.subscan.io/"
+}

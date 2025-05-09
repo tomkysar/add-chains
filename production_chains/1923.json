@@ -1,0 +1,13 @@
+{
+    "chainId": "1923",
+    "rpcs": [
+        "https://lb.drpc.org/ogrpc?network=swell&dkey=AoJh2RKNJUIviZEZZt-0igEzVw0J7wQR773l0mSYF3e0",
+        "https://rpc.ankr.com/swell/697e90c0df4c82240c1def9ca28fea89eb5bd48dba57b3bde249af9ae1269394",
+        "https://swell-mainnet.alt.technology"
+    ],
+    "name": "Swell",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": ""
+}

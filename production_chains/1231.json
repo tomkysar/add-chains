@@ -1,0 +1,11 @@
+{
+    "chainId": "1231",
+    "rpcs": [
+        "https://ultron-rpc.net"
+    ],
+    "name": "Ultron",
+    "symbol": "ULX",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://ulxscan.com"
+}

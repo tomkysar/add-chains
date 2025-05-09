@@ -1,0 +1,11 @@
+{
+    "chainId": "686868",
+    "rpcs": [
+        "https://testnet-rpc.merlinchain.io"
+    ],
+    "name": "Merlin Testnet",
+    "symbol": "BTC",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://testnet-scan.merlinchain.io"
+}

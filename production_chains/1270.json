@@ -1,0 +1,11 @@
+{
+    "chainId": "1270",
+    "rpcs": [
+        "https://testnet-rpc.irys.xyz/v1/execution-rpc"
+    ],
+    "name": "Irys Testnet",
+    "symbol": "IRYS",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://irys-testnet.gas.zip"
+}

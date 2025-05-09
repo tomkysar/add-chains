@@ -1,0 +1,11 @@
+{
+    "chainId": "223",
+    "rpcs": [
+        "https://rpc.bsquared.network/"
+    ],
+    "name": "B² Network",
+    "symbol": "BTC",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.bsquared.network/"
+}

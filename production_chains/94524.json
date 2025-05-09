@@ -1,0 +1,11 @@
+{
+    "chainId": "94524",
+    "rpcs": [
+        "https://rpc-xchain-mainnet-0.t.conduit.xyz/"
+    ],
+    "name": "XCHAIN",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://xchain-explorer.idex.io/"
+}

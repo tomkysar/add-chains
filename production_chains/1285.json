@@ -1,0 +1,13 @@
+{
+    "chainId": "1285",
+    "rpcs": [
+        "https://lb.drpc.org/ogrpc?network=moonriver&dkey=AoJh2RKNJUIviZEZZt-0igEzVw0J7wQR773l0mSYF3e0",
+        "https://moonriver.public.blastapi.io",
+        "https://moonriver.api.onfinality.io/public"
+    ],
+    "name": "Moonriver",
+    "symbol": "MOVR",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://moonriver.moonscan.io"
+}

@@ -1,0 +1,11 @@
+{
+    "chainId": "253368190",
+    "rpcs": [
+        "https://rpc.flame.astria.org"
+    ],
+    "name": "Flame",
+    "symbol": "TIA",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.flame.astria.org"
+}

@@ -1,0 +1,11 @@
+{
+    "chainId": "444444",
+    "rpcs": [
+        "https://sepolia.syndr.com/http"
+    ],
+    "name": "Syndr Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://sepolia-explorer.syndr.com"
+}

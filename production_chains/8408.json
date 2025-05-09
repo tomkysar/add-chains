@@ -1,0 +1,11 @@
+{
+    "chainId": "8408",
+    "rpcs": [
+        "https://zenchain-testnet.api.onfinality.io/public"
+    ],
+    "name": "Zenchain Testnet",
+    "symbol": "ZCX",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://zentrace.io"
+}

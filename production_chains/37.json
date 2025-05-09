@@ -1,0 +1,11 @@
+{
+    "chainId": "37",
+    "rpcs": [
+        "https://dimension-evm-rpc.xpla.dev"
+    ],
+    "name": "XPLA",
+    "symbol": "XPLA",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.xpla.io"
+}

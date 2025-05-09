@@ -1,0 +1,11 @@
+{
+    "chainId": "12553",
+    "rpcs": [
+        "https://rpc.rss3.io"
+    ],
+    "name": "RSS3",
+    "symbol": "RSS3",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://scan.rss3.io"
+}

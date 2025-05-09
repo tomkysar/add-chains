@@ -1,0 +1,11 @@
+{
+    "chainId": "1287",
+    "rpcs": [
+        "https://rpc.api.moonbase.moonbeam.network"
+    ],
+    "name": "Moonbase Testnet",
+    "symbol": "DEV",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://moonbase.moonscan.io"
+}

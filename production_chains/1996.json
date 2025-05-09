@@ -1,0 +1,11 @@
+{
+    "chainId": "1996",
+    "rpcs": [
+        "https://sanko-mainnet.calderachain.xyz/http"
+    ],
+    "name": "Sanko",
+    "symbol": "DMT",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.sanko.xyz/"
+}

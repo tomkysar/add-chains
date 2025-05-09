@@ -1,0 +1,11 @@
+{
+    "chainId": "59902",
+    "rpcs": [
+        "https://sepolia.metisdevops.link/"
+    ],
+    "name": "Metis Sepolia",
+    "symbol": "sMETIS",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://sepolia-explorer.metisdevops.link"
+}

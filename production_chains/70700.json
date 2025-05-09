@@ -1,0 +1,12 @@
+{
+    "chainId": "70700",
+    "rpcs": [
+        "https://rpc.apex.proofofplay.com",
+        "https://rpc-proofofplay-apex-mainnet-0.t.conduit.xyz/BroiZZfDas2mzp3gtKNpwepAmJBtL39ZY"
+    ],
+    "name": "Play Apex",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.apex.proofofplay.com"
+}

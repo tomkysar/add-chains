@@ -1,0 +1,11 @@
+{
+    "chainId": "2522",
+    "rpcs": [
+        "https://rpc.testnet.frax.com"
+    ],
+    "name": "Fraxtal Holesky",
+    "symbol": "frxETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://holesky.fraxscan.com"
+}

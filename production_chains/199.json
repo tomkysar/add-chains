@@ -1,0 +1,11 @@
+{
+    "chainId": "199",
+    "rpcs": [
+        "https://rpc.bittorrentchain.io"
+    ],
+    "name": "BitTorrent",
+    "symbol": "BTT",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://bttcscan.com"
+}

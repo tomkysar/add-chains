@@ -1,0 +1,11 @@
+{
+    "chainId": "109",
+    "rpcs": [
+        "https://www.shibrpc.com"
+    ],
+    "name": "Shibarium",
+    "symbol": "BONE",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://www.shibariumscan.io"
+}

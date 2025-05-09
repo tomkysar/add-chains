@@ -1,0 +1,9 @@
+{
+    "chainId": "1000026",
+    "rpcs": [],
+    "name": "INRT",
+    "symbol": "INIT",
+    "mainnet": true,
+    "address": "INIT",
+    "explorer": "https://scan.initia.xyz/inertia-2"
+}

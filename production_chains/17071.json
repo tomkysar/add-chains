@@ -1,0 +1,11 @@
+{
+    "chainId": "17071",
+    "rpcs": [
+        "https://mezcal-testnet.rpc.caldera.xyz/http"
+    ],
+    "name": "Celo Mezcal",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://mezcal-testnet.explorer.caldera.xyz/"
+}

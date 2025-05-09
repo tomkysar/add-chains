@@ -1,0 +1,11 @@
+{
+    "chainId": "325000",
+    "rpcs": [
+        "https://rpc.camp-network-testnet.gelato.digital"
+    ],
+    "name": "CAMP Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://camp-network-testnet.blockscout.com/"
+}

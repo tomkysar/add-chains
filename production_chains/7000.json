@@ -1,0 +1,12 @@
+{
+    "chainId": "7000",
+    "rpcs": [
+        "https://zetachain-mainnet.g.alchemy.com/v2/7CYIKsaepW8DSjVC9-dY7NoEyc8b_OTm",
+        "https://zetachain-evm.blockpi.network/v1/rpc/public"
+    ],
+    "name": "Zeta",
+    "symbol": "ZETA",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.zetachain.com"
+}

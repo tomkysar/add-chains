@@ -1,0 +1,12 @@
+{
+    "chainId": "2187",
+    "rpcs": [
+        "https://mainnet-rpc.game7.io",
+        "https://rpc-g7-network-mainnet.t.conduit.xyz/BroiZZfDas2mzp3gtKNpwepAmJBtL39ZY"
+    ],
+    "name": "G7",
+    "symbol": "G7",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://mainnet.game7.io"
+}

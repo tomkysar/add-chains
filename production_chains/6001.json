@@ -1,0 +1,11 @@
+{
+    "chainId": "6001",
+    "rpcs": [
+        "https://fullnode-mainnet.bouncebitapi.com/"
+    ],
+    "name": "BounceBit",
+    "symbol": "BB",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://bbscan.io/"
+}

@@ -1,0 +1,9 @@
+{
+    "chainId": "1000008",
+    "rpcs": [],
+    "name": "Eclipse Devnet",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "SVM",
+    "explorer": "https://explorer.dev.eclipsenetwork.xyz"
+}

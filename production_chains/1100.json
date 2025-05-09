@@ -1,0 +1,12 @@
+{
+    "chainId": "1100",
+    "rpcs": [
+        "https://dymension-evm-rpc.publicnode.com",
+        "https://jsonrpc.dymension.nodestake.org"
+    ],
+    "name": "Dymension",
+    "symbol": "DYM",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://dym.fyi"
+}

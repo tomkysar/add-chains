@@ -1,0 +1,11 @@
+{
+    "chainId": "888888888",
+    "rpcs": [
+        "https://rpc.ancient8.gg"
+    ],
+    "name": "Ancient8",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://scan.ancient8.gg"
+}

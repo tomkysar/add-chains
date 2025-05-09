@@ -1,0 +1,11 @@
+{
+    "chainId": "32520",
+    "rpcs": [
+        "https://mainnet-rpc.brisescan.com"
+    ],
+    "name": "Bitgert",
+    "symbol": "BRISE",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://brisescan.com"
+}

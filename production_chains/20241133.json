@@ -1,0 +1,11 @@
+{
+    "chainId": "20241133",
+    "rpcs": [
+        "https://rpc-proxima.swanchain.io"
+    ],
+    "name": "Swan Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://proxima-explorer.swanchain.io"
+}

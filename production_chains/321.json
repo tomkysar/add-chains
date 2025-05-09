@@ -1,0 +1,11 @@
+{
+    "chainId": "321",
+    "rpcs": [
+        "https://rpc-mainnet.kcc.network"
+    ],
+    "name": "KCC",
+    "symbol": "KCS",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://scan.kcc.io"
+}

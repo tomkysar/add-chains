@@ -1,0 +1,11 @@
+{
+    "chainId": "10241024",
+    "rpcs": [
+        "https://rpc.alienxchain.io/http"
+    ],
+    "name": "AlienX",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.alienxchain.io/"
+}

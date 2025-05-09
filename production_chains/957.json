@@ -1,0 +1,11 @@
+{
+    "chainId": "957",
+    "rpcs": [
+        "https://rpc.lyra.finance"
+    ],
+    "name": "Derive",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.lyra.finance"
+}

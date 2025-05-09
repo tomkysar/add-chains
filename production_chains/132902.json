@@ -1,0 +1,11 @@
+{
+    "chainId": "132902",
+    "rpcs": [
+        "https://sepolia-rpc.form.network/http"
+    ],
+    "name": "Form Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://sepolia-explorer.form.network"
+}

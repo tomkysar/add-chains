@@ -1,0 +1,9 @@
+{
+    "chainId": "1000023",
+    "rpcs": [],
+    "name": "Initia",
+    "symbol": "INIT",
+    "mainnet": true,
+    "address": "INIT",
+    "explorer": "https://scan.initia.xyz/interwoven-1"
+}

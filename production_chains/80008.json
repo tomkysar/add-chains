@@ -1,0 +1,11 @@
+{
+    "chainId": "80008",
+    "rpcs": [
+        "https://rpc.sepolia.polynomial.fi"
+    ],
+    "name": "Polynomial Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://explorer.sepolia.polynomial.fi"
+}

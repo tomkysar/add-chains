@@ -1,0 +1,12 @@
+{
+    "chainId": "81224",
+    "rpcs": [
+        "https://rpc-codex-mainnet-4s9qf7vr0k.t.conduit.xyz/BroiZZfDas2mzp3gtKNpwepAmJBtL39ZY",
+        "https://rpc.codex.xyz"
+    ],
+    "name": "Codex",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.codex.is"
+}

@@ -1,0 +1,11 @@
+{
+    "chainId": "2810",
+    "rpcs": [
+        "https://rpc-holesky.morphl2.io"
+    ],
+    "name": "Morph Holesky",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://explorer-holesky.morphl2.io"
+}

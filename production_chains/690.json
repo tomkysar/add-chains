@@ -1,0 +1,11 @@
+{
+    "chainId": "690",
+    "rpcs": [
+        "https://rpc.redstonechain.com"
+    ],
+    "name": "Redstone",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.redstone.xyz"
+}

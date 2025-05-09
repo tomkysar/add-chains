@@ -1,0 +1,11 @@
+{
+    "chainId": "1686",
+    "rpcs": [
+        "https://sepolia-testnet-rpc.mintchain.io"
+    ],
+    "name": "Mint Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://testnet-explorer.mintchain.io"
+}

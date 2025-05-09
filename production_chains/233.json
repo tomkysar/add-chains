@@ -1,0 +1,11 @@
+{
+    "chainId": "233",
+    "rpcs": [
+        "https://testnet.ethernitychain.io"
+    ],
+    "name": "Ethernity Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://testnet.ernscan.io"
+}

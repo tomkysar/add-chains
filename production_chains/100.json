@@ -1,0 +1,13 @@
+{
+    "chainId": "100",
+    "rpcs": [
+        "https://gnosis-mainnet.g.alchemy.com/v2/7CYIKsaepW8DSjVC9-dY7NoEyc8b_OTm",
+        "https://rpc.ankr.com/gnosis/697e90c0df4c82240c1def9ca28fea89eb5bd48dba57b3bde249af9ae1269394",
+        "https://quaint-ultra-tent.xdai.quiknode.pro/202b9734e32945bf261b78dbed539fc5e6619c7f"
+    ],
+    "name": "Gnosis",
+    "symbol": "XDAI",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://gnosisscan.io"
+}

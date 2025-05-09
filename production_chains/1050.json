@@ -1,0 +1,11 @@
+{
+    "chainId": "1050",
+    "rpcs": [
+        "https://rpc.diadata.org"
+    ],
+    "name": "DIA",
+    "symbol": "DIA",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.diadata.org"
+}

@@ -1,0 +1,11 @@
+{
+    "chainId": "20240603",
+    "rpcs": [
+        "https://rpc.mainnet.dbkchain.io"
+    ],
+    "name": "DeBank",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://scan.dbkchain.io"
+}

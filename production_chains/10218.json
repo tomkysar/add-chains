@@ -1,0 +1,11 @@
+{
+    "chainId": "10218",
+    "rpcs": [
+        "https://tea-sepolia.g.alchemy.com/v2/7CYIKsaepW8DSjVC9-dY7NoEyc8b_OTm"
+    ],
+    "name": "TEA Sepolia",
+    "symbol": "TEA",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://sepolia.tea.xyz"
+}

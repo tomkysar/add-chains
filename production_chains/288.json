@@ -1,0 +1,13 @@
+{
+    "chainId": "288",
+    "rpcs": [
+        "https://lb.drpc.org/ogrpc?network=boba-eth&dkey=AoJh2RKNJUIviZEZZt-0igEzVw0J7wQR773l0mSYF3e0",
+        "https://mainnet.boba.network",
+        "https://boba-ethereum.gateway.tenderly.co"
+    ],
+    "name": "Boba ETH",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://bobascan.com"
+}

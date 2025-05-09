@@ -1,0 +1,11 @@
+{
+    "chainId": "52085143",
+    "rpcs": [
+        "https://rpc-ethena-testnet-0.t.conduit.xyz"
+    ],
+    "name": "Ethena Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://explorer-ethena-testnet-0.t.conduit.xyz"
+}

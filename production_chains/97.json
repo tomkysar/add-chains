@@ -1,0 +1,13 @@
+{
+    "chainId": "97",
+    "rpcs": [
+        "https://bnb-testnet.g.alchemy.com/v2/7CYIKsaepW8DSjVC9-dY7NoEyc8b_OTm",
+        "https://rpc.ankr.com/bsc_testnet_chapel/697e90c0df4c82240c1def9ca28fea89eb5bd48dba57b3bde249af9ae1269394",
+        "https://bsc-testnet.publicnode.com"
+    ],
+    "name": "BNB Testnet",
+    "symbol": "tBNB",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://testnet.bscscan.com"
+}

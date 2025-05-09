@@ -1,0 +1,11 @@
+{
+    "chainId": "1380012617",
+    "rpcs": [
+        "https://mainnet.rpc.rarichain.org/http"
+    ],
+    "name": "Rari",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://mainnet.explorer.rarichain.org"
+}

@@ -1,0 +1,11 @@
+{
+    "chainId": "660279",
+    "rpcs": [
+        "https://xai-chain.net/rpc"
+    ],
+    "name": "XAI",
+    "symbol": "XAI",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.xai-chain.net"
+}

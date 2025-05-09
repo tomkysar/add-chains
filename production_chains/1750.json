@@ -1,0 +1,12 @@
+{
+    "chainId": "1750",
+    "rpcs": [
+        "https://lb.drpc.org/ogrpc?network=metall2&dkey=AoJh2RKNJUIviZEZZt-0igEzVw0J7wQR773l0mSYF3e0",
+        "https://rpc.metall2.com/"
+    ],
+    "name": "Metal",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.metall2.com/"
+}

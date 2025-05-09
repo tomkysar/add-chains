@@ -1,0 +1,11 @@
+{
+    "chainId": "4460",
+    "rpcs": [
+        "https://testnet-rpc.orderly.org"
+    ],
+    "name": "Orderly Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://testnet-explorer.orderly.org"
+}

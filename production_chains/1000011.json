@@ -1,0 +1,9 @@
+{
+    "chainId": "1000011",
+    "rpcs": [],
+    "name": "Aptos",
+    "symbol": "APT",
+    "mainnet": true,
+    "address": "FUEL",
+    "explorer": "https://aptoscan.com"
+}

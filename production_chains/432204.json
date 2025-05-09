@@ -1,0 +1,11 @@
+{
+    "chainId": "432204",
+    "rpcs": [
+        "https://subnets.avax.network/dexalot/mainnet/rpc"
+    ],
+    "name": "Dexalot",
+    "symbol": "ALOT",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://subnets.avax.network/dexalot"
+}

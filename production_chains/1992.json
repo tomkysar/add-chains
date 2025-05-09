@@ -1,0 +1,11 @@
+{
+    "chainId": "1992",
+    "rpcs": [
+        "https://sanko-arb-sepolia.rpc.caldera.xyz/http"
+    ],
+    "name": "Sanko Testnet",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://testnet.sankoscan.io/"
+}

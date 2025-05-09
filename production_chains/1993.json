@@ -1,0 +1,11 @@
+{
+    "chainId": "1993",
+    "rpcs": [
+        "https://sepolia.b3.fun/http"
+    ],
+    "name": "B3 Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://sepolia.explorer.b3.fun/"
+}

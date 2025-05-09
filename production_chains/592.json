@@ -1,0 +1,13 @@
+{
+    "chainId": "592",
+    "rpcs": [
+        "https://astar-mainnet.g.alchemy.com/v2/7CYIKsaepW8DSjVC9-dY7NoEyc8b_OTm",
+        "https://astar.public.blastapi.io",
+        "https://astar.api.onfinality.io/public"
+    ],
+    "name": "Astar",
+    "symbol": "ASTR",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://astar.subscan.io"
+}

@@ -1,0 +1,12 @@
+{
+    "chainId": "245022934",
+    "rpcs": [
+        "https://lb.drpc.org/ogrpc?network=neon-evm&dkey=AoJh2RKNJUIviZEZZt-0igEzVw0J7wQR773l0mSYF3e0",
+        "https://neon-proxy-mainnet.solana.p2p.org"
+    ],
+    "name": "Neon EVM",
+    "symbol": "NEON",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://neonscan.org"
+}

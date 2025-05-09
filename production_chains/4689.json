@@ -1,0 +1,12 @@
+{
+    "chainId": "4689",
+    "rpcs": [
+        "https://babel-api.mainnet.iotex.io",
+        "https://rpc.ankr.com/iotex/697e90c0df4c82240c1def9ca28fea89eb5bd48dba57b3bde249af9ae1269394"
+    ],
+    "name": "IoTeX",
+    "symbol": "IOTX",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://iotexscan.io"
+}

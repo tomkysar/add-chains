@@ -1,0 +1,11 @@
+{
+    "chainId": "10001",
+    "rpcs": [
+        "https://mainnet.ethereumpow.org"
+    ],
+    "name": "ETHW",
+    "symbol": "ETHW",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://www.oklink.com/ethw"
+}

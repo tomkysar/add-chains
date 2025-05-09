@@ -1,0 +1,13 @@
+{
+    "chainId": "43111",
+    "rpcs": [
+        "https://7e57304f.rpc.hemi.network/rpc",
+        "https://9277255a.rpc.hemi.network/rpc",
+        "https://rpc.hemi.network/rpc"
+    ],
+    "name": "Hemi",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": ""
+}

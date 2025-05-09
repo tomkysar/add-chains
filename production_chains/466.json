@@ -1,0 +1,11 @@
+{
+    "chainId": "466",
+    "rpcs": [
+        "https://rpc.appchain.xyz/http"
+    ],
+    "name": "AppChain",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.appchain.xyz"
+}

@@ -1,0 +1,11 @@
+{
+    "chainId": "28122024",
+    "rpcs": [
+        "https://rpcv2-testnet.ancient8.gg"
+    ],
+    "name": "Ancient8 Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://scanv2-testnet.ancient8.gg:443"
+}

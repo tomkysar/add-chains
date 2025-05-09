@@ -1,0 +1,9 @@
+{
+    "chainId": "1000022",
+    "rpcs": [],
+    "name": "Movement",
+    "symbol": "MOVE",
+    "mainnet": true,
+    "address": "FUEL",
+    "explorer": "https://explorer.movementnetwork.xyz/?network=mainnet"
+}

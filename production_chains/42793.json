@@ -1,0 +1,11 @@
+{
+    "chainId": "42793",
+    "rpcs": [
+        "https://node.mainnet.etherlink.com"
+    ],
+    "name": "Etherlink",
+    "symbol": "XTZ",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.etherlink.com"
+}

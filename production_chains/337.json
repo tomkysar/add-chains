@@ -1,0 +1,11 @@
+{
+    "chainId": "337",
+    "rpcs": [
+        "https://rpc.r5.network"
+    ],
+    "name": "R5 Testnet",
+    "symbol": "R5",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.r5.network"
+}

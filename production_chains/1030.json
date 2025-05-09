@@ -1,0 +1,11 @@
+{
+    "chainId": "1030",
+    "rpcs": [
+        "https://evm.confluxrpc.com"
+    ],
+    "name": "ConFlux",
+    "symbol": "CFX",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://evm.confluxscan.net"
+}

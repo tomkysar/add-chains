@@ -1,0 +1,9 @@
+{
+    "chainId": "1000014",
+    "rpcs": [],
+    "name": "Movement Aptos Porto",
+    "symbol": "MOVE",
+    "mainnet": false,
+    "address": "FUEL",
+    "explorer": "https://explorer.testnet.porto.movementnetwork.xyz"
+}

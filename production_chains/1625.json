@@ -1,0 +1,13 @@
+{
+    "chainId": "1625",
+    "rpcs": [
+        "https://rpc.gravity.xyz",
+        "https://rpc.ankr.com/gravity/697e90c0df4c82240c1def9ca28fea89eb5bd48dba57b3bde249af9ae1269394",
+        "https://rpc-gravity-mainnet-0.t.conduit.xyz/BroiZZfDas2mzp3gtKNpwepAmJBtL39ZY"
+    ],
+    "name": "Gravity",
+    "symbol": "G",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.gravity.xyz/"
+}

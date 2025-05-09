@@ -1,0 +1,9 @@
+{
+    "chainId": "1000020",
+    "rpcs": [],
+    "name": "Soon Mainnet",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "SVM",
+    "explorer": "https://explorer.soo.network"
+}

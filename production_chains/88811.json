@@ -1,0 +1,11 @@
+{
+    "chainId": "88811",
+    "rpcs": [
+        "https://rpc.unit0.dev"
+    ],
+    "name": "UNIT0",
+    "symbol": "UNIT0",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.unit0.dev"
+}

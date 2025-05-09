@@ -1,0 +1,11 @@
+{
+    "chainId": "19",
+    "rpcs": [
+        "https://songbird.towolabs.com/rpc"
+    ],
+    "name": "Songbird",
+    "symbol": "SGB",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://songbird-explorer.flare.network"
+}

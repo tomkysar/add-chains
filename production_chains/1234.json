@@ -1,0 +1,11 @@
+{
+    "chainId": "1234",
+    "rpcs": [
+        "https://rpc.step.network"
+    ],
+    "name": "Step",
+    "symbol": "FITFI",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://stepscan.io"
+}

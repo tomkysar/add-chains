@@ -1,0 +1,11 @@
+{
+    "chainId": "41455",
+    "rpcs": [
+        "https://rpc.alephzero.raas.gelato.cloud/"
+    ],
+    "name": "Aleph Zero EVM",
+    "symbol": "AZERO",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://evm-explorer.alephzero.org"
+}

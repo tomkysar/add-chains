@@ -1,0 +1,12 @@
+{
+    "chainId": "108",
+    "rpcs": [
+        "https://lb.drpc.org/ogrpc?network=thundercore&dkey=AoJh2RKNJUIviZEZZt-0igEzVw0J7wQR773l0mSYF3e0",
+        "https://mainnet-rpc.thundertoken.net"
+    ],
+    "name": "ThunderCore",
+    "symbol": "TT",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer-mainnet.thundercore.com/"
+}

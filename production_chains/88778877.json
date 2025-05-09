@@ -1,0 +1,9 @@
+{
+    "chainId": "88778877",
+    "rpcs": [],
+    "name": "Hyperliquid",
+    "symbol": "USDC",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://app.hyperliquid.xyz/explorer"
+}

@@ -1,0 +1,12 @@
+{
+    "chainId": "80002",
+    "rpcs": [
+        "https://polygon-amoy.g.alchemy.com/v2/7CYIKsaepW8DSjVC9-dY7NoEyc8b_OTm",
+        "https://rpc-amoy.polygon.technology"
+    ],
+    "name": "Polygon Amoy",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://www.okx.com/explorer/amoy"
+}

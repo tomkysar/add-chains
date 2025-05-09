@@ -1,0 +1,11 @@
+{
+    "chainId": "383353",
+    "rpcs": [
+        "https://cheesechain.calderachain.xyz/http"
+    ],
+    "name": "CheeseChain",
+    "symbol": "CHEESE",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://cheesechain.calderaexplorer.xyz/"
+}

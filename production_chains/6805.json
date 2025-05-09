@@ -1,0 +1,12 @@
+{
+    "chainId": "6805",
+    "rpcs": [
+        "https://autumn-stylish-flower.race-mainnet.quiknode.pro/1a0ee92a7f2ee1b3ef7e5e29268b11b7c06fe3cd/",
+        "https://racemainnet.io"
+    ],
+    "name": "Race",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://racescan.io"
+}

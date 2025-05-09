@@ -1,0 +1,11 @@
+{
+    "chainId": "53456",
+    "rpcs": [
+        "https://rpc.birdlayer.xyz"
+    ],
+    "name": "BirdLayer",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://scan.birdlayer.xyz"
+}

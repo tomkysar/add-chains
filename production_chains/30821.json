@@ -1,0 +1,11 @@
+{
+    "chainId": "30821",
+    "rpcs": [
+        "https://rpc-testnet.playai.network"
+    ],
+    "name": "PlayAI Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://explorer-testnet.playai.network/"
+}

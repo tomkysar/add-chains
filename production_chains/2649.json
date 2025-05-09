@@ -1,0 +1,11 @@
+{
+    "chainId": "2649",
+    "rpcs": [
+        "https://mainnet-rpc.ailayer.xyz"
+    ],
+    "name": "AILayer",
+    "symbol": "BTC",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://mainnet-explorer.ailayer.xyz/"
+}

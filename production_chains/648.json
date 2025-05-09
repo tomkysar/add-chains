@@ -1,0 +1,11 @@
+{
+    "chainId": "648",
+    "rpcs": [
+        "https://rpc-endurance.fusionist.io/"
+    ],
+    "name": "Endurance",
+    "symbol": "ACE",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer-endurance.fusionist.io"
+}

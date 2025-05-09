@@ -1,0 +1,12 @@
+{
+    "chainId": "1514",
+    "rpcs": [
+        "https://muddy-bitter-sheet.story-mainnet.quiknode.pro/4721c3dae88e4c9e3742f3ad3e9c92796e54b24e",
+        "https://mainnet.storyrpc.io"
+    ],
+    "name": "Story",
+    "symbol": "IP",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://www.storyscan.xyz/"
+}

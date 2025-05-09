@@ -1,0 +1,11 @@
+{
+    "chainId": "62050",
+    "rpcs": [
+        "https://rpc-mainnet.optopia.ai"
+    ],
+    "name": "Optopia",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://scan.optopia.ai/"
+}

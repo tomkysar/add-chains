@@ -1,0 +1,11 @@
+{
+    "chainId": "5112",
+    "rpcs": [
+        "https://rpc.ham.fun/"
+    ],
+    "name": "Ham",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.ham.fun"
+}

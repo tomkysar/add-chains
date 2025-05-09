@@ -1,0 +1,12 @@
+{
+    "chainId": "7700",
+    "rpcs": [
+        "https://mainnode.plexnode.org:8545",
+        "https://canto.slingshot.finance"
+    ],
+    "name": "Canto",
+    "symbol": "CANTO",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://cantoscan.com"
+}

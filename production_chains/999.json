@@ -1,0 +1,12 @@
+{
+    "chainId": "999",
+    "rpcs": [
+        "https://rpc-jp-hyperliquid.imperator.co/evm",
+        "https://twilight-convincing-feather.hype-mainnet.quiknode.pro/8eb06744efa0b5308d36256c20d551b3006af90d/evm"
+    ],
+    "name": "Hyperliquid EVM",
+    "symbol": "HYPE",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://app.hyperliquid.xyz/explorer"
+}

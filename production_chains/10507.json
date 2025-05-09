@@ -1,0 +1,11 @@
+{
+    "chainId": "10507",
+    "rpcs": [
+        "https://mainnetrpc.num.network"
+    ],
+    "name": "Numbers",
+    "symbol": "NUM",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://mainnet.num.network/"
+}

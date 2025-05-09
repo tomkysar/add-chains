@@ -1,0 +1,11 @@
+{
+    "chainId": "4321",
+    "rpcs": [
+        "https://rpc-echos-mainnet-0.t.conduit.xyz"
+    ],
+    "name": "Echos",
+    "symbol": "USDC",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.echos.fun"
+}

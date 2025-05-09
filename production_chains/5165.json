@@ -1,0 +1,11 @@
+{
+    "chainId": "5165",
+    "rpcs": [
+        "https://rpc1.bahamut.io/"
+    ],
+    "name": "Bahamut",
+    "symbol": "FTN",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://www.ftnscan.com/"
+}

@@ -1,0 +1,11 @@
+{
+    "chainId": "4202",
+    "rpcs": [
+        "https://rpc.sepolia-api.lisk.com"
+    ],
+    "name": "Lisk Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://sepolia-blockscout.lisk.com"
+}

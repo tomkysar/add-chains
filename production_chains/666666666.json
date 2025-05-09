@@ -1,0 +1,12 @@
+{
+    "chainId": "666666666",
+    "rpcs": [
+        "https://degen-mainnet.g.alchemy.com/v2/7CYIKsaepW8DSjVC9-dY7NoEyc8b_OTm",
+        "https://rpc.degen.tips"
+    ],
+    "name": "Degen",
+    "symbol": "DEGEN",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.degen.tips"
+}

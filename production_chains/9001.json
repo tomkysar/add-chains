@@ -1,0 +1,11 @@
+{
+    "chainId": "9001",
+    "rpcs": [
+        "https://evmos-evm.publicnode.com"
+    ],
+    "name": "EVMOS",
+    "symbol": "EVMOS",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://escan.live"
+}

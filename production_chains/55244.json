@@ -1,0 +1,12 @@
+{
+    "chainId": "55244",
+    "rpcs": [
+        "https://rpc.superposition.so",
+        "https://rpc-superposition-1v9rjalnat.t.conduit.xyz/BroiZZfDas2mzp3gtKNpwepAmJBtL39ZY"
+    ],
+    "name": "Superposition",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.superposition.so"
+}

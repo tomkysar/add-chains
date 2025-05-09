@@ -1,0 +1,11 @@
+{
+    "chainId": "2355",
+    "rpcs": [
+        "https://rpc.silicon.network"
+    ],
+    "name": "Silicon",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://scope.silicon.network"
+}

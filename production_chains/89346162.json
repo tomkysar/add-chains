@@ -1,0 +1,11 @@
+{
+    "chainId": "89346162",
+    "rpcs": [
+        "https://rpc.reya-cronos.gelato.digital"
+    ],
+    "name": "REYA Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://reya-cronos.blockscout.com/"
+}

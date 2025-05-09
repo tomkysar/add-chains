@@ -1,0 +1,11 @@
+{
+    "chainId": "7200",
+    "rpcs": [
+        "https://evm.exsat.network"
+    ],
+    "name": "ExSat",
+    "symbol": "BTC",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://scan.exsat.network"
+}

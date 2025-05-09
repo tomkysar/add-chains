@@ -1,0 +1,13 @@
+{
+    "chainId": "1116",
+    "rpcs": [
+        "https://rpc.ankr.com/core/697e90c0df4c82240c1def9ca28fea89eb5bd48dba57b3bde249af9ae1269394",
+        "https://rpc.coredao.org",
+        "https://lb.drpc.org/ogrpc?network=core&dkey=AoJh2RKNJUIviZEZZt-0igEzVw0J7wQR773l0mSYF3e0"
+    ],
+    "name": "CoreDAO",
+    "symbol": "CORE",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://scan.coredao.org"
+}

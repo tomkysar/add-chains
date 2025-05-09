@@ -1,0 +1,11 @@
+{
+    "chainId": "13001",
+    "rpcs": [
+        "https://testnet.snaxchain.io"
+    ],
+    "name": "Snaxchain Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://testnet-explorer.snaxchain.io"
+}

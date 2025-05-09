@@ -1,0 +1,12 @@
+{
+    "chainId": "70701",
+    "rpcs": [
+        "https://rpc.boss.proofofplay.com",
+        "https://rpc-proofofplay-boss-mainnet.t.conduit.xyz/BroiZZfDas2mzp3gtKNpwepAmJBtL39ZY"
+    ],
+    "name": "Proof of Play Boss",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.boss.proofofplay.com/"
+}

@@ -1,0 +1,11 @@
+{
+    "chainId": "668668",
+    "rpcs": [
+        "https://conwai.calderachain.xyz/http"
+    ],
+    "name": "Conwai",
+    "symbol": "CNW",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://conwai.calderaexplorer.xyz"
+}

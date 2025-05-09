@@ -1,0 +1,11 @@
+{
+    "chainId": "260",
+    "rpcs": [
+        "https://rpc-guru-2k3v53llpe.t.conduit.xyz"
+    ],
+    "name": "Guru",
+    "symbol": "GURU",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://blockscout.gurunetwork.ai"
+}

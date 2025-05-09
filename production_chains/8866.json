@@ -1,0 +1,11 @@
+{
+    "chainId": "8866",
+    "rpcs": [
+        "https://mainnet.lumio.io"
+    ],
+    "name": "Lumio",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.lumio.io"
+}

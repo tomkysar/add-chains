@@ -1,0 +1,12 @@
+{
+    "chainId": "21000000",
+    "rpcs": [
+        "https://mainnet.corn-rpc.com",
+        "https://rpc-corn-maizenet.t.conduit.xyz/BroiZZfDas2mzp3gtKNpwepAmJBtL39ZY"
+    ],
+    "name": "Corn",
+    "symbol": "BTCN",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": ""
+}

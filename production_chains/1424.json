@@ -1,0 +1,12 @@
+{
+    "chainId": "1424",
+    "rpcs": [
+        "https://rpc.perennial.foundation",
+        "https://rpc-perennial-lsv53i0ed8.t.conduit.xyz"
+    ],
+    "name": "Perennial",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.perennial.foundation"
+}

@@ -1,0 +1,11 @@
+{
+    "chainId": "5151706",
+    "rpcs": [
+        "https://rpc.lootchain.com/http"
+    ],
+    "name": "Loot",
+    "symbol": "ALGD",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.lootchain.com"
+}

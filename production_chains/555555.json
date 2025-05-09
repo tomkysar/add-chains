@@ -1,0 +1,11 @@
+{
+    "chainId": "555555",
+    "rpcs": [
+        "https://rpc-testnet.pentagon.games"
+    ],
+    "name": "Pentagon Testnet",
+    "symbol": "PEN",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://explorer-testnet.pentagon.games"
+}

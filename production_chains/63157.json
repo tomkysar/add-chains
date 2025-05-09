@@ -1,0 +1,11 @@
+{
+    "chainId": "63157",
+    "rpcs": [
+        "https://geist-mainnet.g.alchemy.com/v2/7CYIKsaepW8DSjVC9-dY7NoEyc8b_OTm"
+    ],
+    "name": "Geist",
+    "symbol": "GHST",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://geist-mainnet.explorer.alchemy.com"
+}

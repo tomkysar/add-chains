@@ -1,0 +1,12 @@
+{
+    "chainId": "994873017",
+    "rpcs": [
+        "https://lumia-prism.g.alchemy.com/v2/7CYIKsaepW8DSjVC9-dY7NoEyc8b_OTm",
+        "https://mainnet-rpc.lumia.org"
+    ],
+    "name": "Lumia Prism",
+    "symbol": "LUMIA",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.lumia.org"
+}

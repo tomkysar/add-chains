@@ -1,0 +1,12 @@
+{
+    "chainId": "11155111",
+    "rpcs": [
+        "https://eth-sepolia.g.alchemy.com/v2/7CYIKsaepW8DSjVC9-dY7NoEyc8b_OTm",
+        "https://rpc.ankr.com/eth_sepolia/697e90c0df4c82240c1def9ca28fea89eb5bd48dba57b3bde249af9ae1269394"
+    ],
+    "name": "Sepolia",
+    "symbol": "sETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://sepolia.etherscan.io"
+}

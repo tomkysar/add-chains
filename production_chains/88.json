@@ -1,0 +1,13 @@
+{
+    "chainId": "88",
+    "rpcs": [
+        "https://rpc.viction.com",
+        "https://viction.blockpi.network/v1/rpc/public",
+        "https://rpc.tomochain.com"
+    ],
+    "name": "Viction",
+    "symbol": "VIC",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://www.vicscan.xyz"
+}

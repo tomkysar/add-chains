@@ -1,0 +1,12 @@
+{
+    "chainId": "1313161554",
+    "rpcs": [
+        "https://lb.drpc.org/ogrpc?network=aurora&dkey=AoJh2RKNJUIviZEZZt-0igEzVw0J7wQR773l0mSYF3e0",
+        "https://mainnet.aurora.dev"
+    ],
+    "name": "Aurora",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://aurorascan.dev"
+}

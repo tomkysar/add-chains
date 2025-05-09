@@ -1,0 +1,11 @@
+{
+    "chainId": "42019",
+    "rpcs": [
+        "https://rpc-test.donatuz.com"
+    ],
+    "name": "Donatuz Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://explorer-test.donatuz.com"
+}

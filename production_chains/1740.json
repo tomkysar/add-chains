@@ -1,0 +1,11 @@
+{
+    "chainId": "1740",
+    "rpcs": [
+        "https://testnet.rpc.metall2.com/"
+    ],
+    "name": "Metal Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://testnet.explorer.metall2.com"
+}

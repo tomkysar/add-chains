@@ -1,0 +1,11 @@
+{
+    "chainId": "7171",
+    "rpcs": [
+        "https://brockrpc.io/"
+    ],
+    "name": "BitRock",
+    "symbol": "BROCK",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.bit-rock.io/"
+}

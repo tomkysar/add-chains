@@ -1,0 +1,11 @@
+{
+    "chainId": "98866",
+    "rpcs": [
+        "https://phoenix-rpc.plumenetwork.xyz"
+    ],
+    "name": "Plume",
+    "symbol": "PLUME",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://phoenix-explorer.plumenetwork.xyz"
+}

@@ -1,0 +1,11 @@
+{
+    "chainId": "3109",
+    "rpcs": [
+        "https://alpha-rpc-node-http.svmscan.io"
+    ],
+    "name": "SatoshiVM",
+    "symbol": "BTC",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://svmscan.io"
+}

@@ -1,0 +1,11 @@
+{
+    "chainId": "11501",
+    "rpcs": [
+        "https://rpc-mainnet-1.bevm.io/"
+    ],
+    "name": "BEVM",
+    "symbol": "BTC",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://scan-mainnet.bevm.io"
+}

@@ -1,0 +1,12 @@
+{
+    "chainId": "42766",
+    "rpcs": [
+        "https://rpc.zkfair.io",
+        "https://endpoints.omniatech.io/v1/zkfair/mainnet/public"
+    ],
+    "name": "zkFair",
+    "symbol": "USDC",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://scan.zkfair.io"
+}

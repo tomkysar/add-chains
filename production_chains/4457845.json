@@ -1,0 +1,11 @@
+{
+    "chainId": "4457845",
+    "rpcs": [
+        "https://rpc.zerion.io/v1/zero-sepolia"
+    ],
+    "name": "ZERϴ Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://explorer.zero.network"
+}

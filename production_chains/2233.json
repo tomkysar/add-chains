@@ -1,0 +1,11 @@
+{
+    "chainId": "2233",
+    "rpcs": [
+        "https://testnet.s.chainbase.com"
+    ],
+    "name": "Chainbase Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://testnet.explorer.chainbase.com/"
+}

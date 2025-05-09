@@ -1,0 +1,11 @@
+{
+    "chainId": "3397901",
+    "rpcs": [
+        "https://funki-testnet.alt.technology"
+    ],
+    "name": "Funkichain Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://sepolia-sandbox.funkichain.com"
+}

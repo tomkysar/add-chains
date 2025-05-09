@@ -1,0 +1,11 @@
+{
+    "chainId": "11690",
+    "rpcs": [
+        "https://rpc.testnet.incentiv.net"
+    ],
+    "name": "Incentiv Testnet",
+    "symbol": "TCENT",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://incentiv.gas.zip"
+}

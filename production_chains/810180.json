@@ -1,0 +1,11 @@
+{
+    "chainId": "810180",
+    "rpcs": [
+        "https://rpc.zklink.io"
+    ],
+    "name": "zkLink Nova",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.zklink.io"
+}

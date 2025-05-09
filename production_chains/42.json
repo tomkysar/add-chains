@@ -1,0 +1,11 @@
+{
+    "chainId": "42",
+    "rpcs": [
+        "https://rpc.mainnet.lukso.network"
+    ],
+    "name": "Lukso",
+    "symbol": "LYX",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.execution.mainnet.lukso.network"
+}

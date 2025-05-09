@@ -1,0 +1,12 @@
+{
+    "chainId": "8822",
+    "rpcs": [
+        "https://json-rpc.evm.iotaledger.net",
+        "https://rpc.ankr.com/iota_evm/697e90c0df4c82240c1def9ca28fea89eb5bd48dba57b3bde249af9ae1269394"
+    ],
+    "name": "IOTA EVM",
+    "symbol": "IOTA",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.evm.iota.org"
+}

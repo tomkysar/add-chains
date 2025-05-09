@@ -1,0 +1,13 @@
+{
+    "chainId": "4002",
+    "rpcs": [
+        "https://fantom-testnet.g.alchemy.com/v2/7CYIKsaepW8DSjVC9-dY7NoEyc8b_OTm",
+        "https://rpc.testnet.fantom.network",
+        "https://fantom-testnet.publicnode.com"
+    ],
+    "name": "Fantom Testnet",
+    "symbol": "tFTM",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://testnet.ftmscan.com"
+}

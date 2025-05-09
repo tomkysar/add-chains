@@ -1,0 +1,11 @@
+{
+    "chainId": "1313161555",
+    "rpcs": [
+        "https://testnet.aurora.dev"
+    ],
+    "name": "Aurora Goerli",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://testnet.aurorascan.dev"
+}

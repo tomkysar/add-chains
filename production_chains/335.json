@@ -1,0 +1,11 @@
+{
+    "chainId": "335",
+    "rpcs": [
+        "https://subnets.avax.network/defi-kingdoms/dfk-chain-testnet/rpc"
+    ],
+    "name": "DFK",
+    "symbol": "JEWEL",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://subnets-test.avax.network/defi-kingdoms"
+}

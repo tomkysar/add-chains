@@ -1,0 +1,9 @@
+{
+    "chainId": "1000016",
+    "rpcs": [],
+    "name": "XRP",
+    "symbol": "XRP",
+    "mainnet": true,
+    "address": "XRP",
+    "explorer": "https://xrpscan.com"
+}

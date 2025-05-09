@@ -1,0 +1,11 @@
+{
+    "chainId": "8008",
+    "rpcs": [
+        "https://rpc.polynomial.fi"
+    ],
+    "name": "Polynomial",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer-polynomial-mainnet-0.t.conduit.xyz"
+}

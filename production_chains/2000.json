@@ -1,0 +1,11 @@
+{
+    "chainId": "2000",
+    "rpcs": [
+        "https://rpc.dogechain.dog"
+    ],
+    "name": "Dogechain",
+    "symbol": "DOGE",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.dogechain.dog"
+}

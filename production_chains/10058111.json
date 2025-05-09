@@ -1,0 +1,11 @@
+{
+    "chainId": "10058111",
+    "rpcs": [
+        "https://spotlight-mainnet.g.alchemy.com/public"
+    ],
+    "name": "Spotlight",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://spotlight-mainnet.explorer.alchemy.com"
+}

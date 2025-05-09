@@ -1,0 +1,11 @@
+{
+    "chainId": "57054",
+    "rpcs": [
+        "https://rpc.blaze.soniclabs.com"
+    ],
+    "name": "Sonic Blaze",
+    "symbol": "S",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://explorer.blaze.soniclabs.com"
+}

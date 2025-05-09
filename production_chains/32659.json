@@ -1,0 +1,11 @@
+{
+    "chainId": "32659",
+    "rpcs": [
+        "https://mainnet.fusionnetwork.io/"
+    ],
+    "name": "Fusion",
+    "symbol": "FSN",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://fsnscan.com"
+}

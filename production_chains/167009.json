@@ -1,0 +1,12 @@
+{
+    "chainId": "167009",
+    "rpcs": [
+        "https://lb.drpc.org/ogrpc?network=taiko-hekla&dkey=AoJh2RKNJUIviZEZZt-0igEzVw0J7wQR773l0mSYF3e0",
+        "https://rpc.hekla.taiko.xyz/"
+    ],
+    "name": "Taiko Hekla",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://hekla.taikoscan.network"
+}

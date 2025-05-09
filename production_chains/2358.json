@@ -1,0 +1,11 @@
+{
+    "chainId": "2358",
+    "rpcs": [
+        "https://api.sepolia.kroma.network/"
+    ],
+    "name": "Kroma Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://sepolia.kromascan.com"
+}

@@ -1,0 +1,12 @@
+{
+    "chainId": "168587773",
+    "rpcs": [
+        "https://blast-sepolia.g.alchemy.com/v2/7CYIKsaepW8DSjVC9-dY7NoEyc8b_OTm",
+        "https://sepolia.blast.io"
+    ],
+    "name": "Blast Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://testnet.blastscan.io"
+}

@@ -1,0 +1,11 @@
+{
+    "chainId": "227",
+    "rpcs": [
+        "https://rpc.prom.io"
+    ],
+    "name": "Prom",
+    "symbol": "PROM",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://promscan.io"
+}

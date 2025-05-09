@@ -1,0 +1,11 @@
+{
+    "chainId": "9999999",
+    "rpcs": [
+        "https://rpc.mainnet.fluence.dev"
+    ],
+    "name": "Fluence",
+    "symbol": "FLT",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://blockscout.mainnet.fluence.dev"
+}

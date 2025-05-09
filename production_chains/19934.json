@@ -1,0 +1,11 @@
+{
+    "chainId": "19934",
+    "rpcs": [
+        "https://b4-testnet.rpc.caldera.xyz/http"
+    ],
+    "name": "B4 Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://b4-testnet.rpc.caldera.xyz/http"
+}

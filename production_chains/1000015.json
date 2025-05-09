@@ -1,0 +1,9 @@
+{
+    "chainId": "1000015",
+    "rpcs": [],
+    "name": "Initia Initiation",
+    "symbol": "INIT",
+    "mainnet": false,
+    "address": "INIT",
+    "explorer": "https://scan.testnet.initia.xyz/initiation-2"
+}

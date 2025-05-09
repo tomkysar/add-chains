@@ -1,0 +1,11 @@
+{
+    "chainId": "183",
+    "rpcs": [
+        "https://mainnet.ethernitychain.io"
+    ],
+    "name": "Ethernity",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://ernscan.io"
+}

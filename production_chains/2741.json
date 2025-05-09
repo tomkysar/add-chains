@@ -1,0 +1,13 @@
+{
+    "chainId": "2741",
+    "rpcs": [
+        "https://abstract-mainnet.g.alchemy.com/v2/7CYIKsaepW8DSjVC9-dY7NoEyc8b_OTm",
+        "https://attentive-wider-liquid.abstract-mainnet.quiknode.pro/0eb1777c836c59c9841c475a50b47e19570b3a70",
+        "https://api.mainnet.abs.xyz"
+    ],
+    "name": "Abstract",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://abscan.org"
+}

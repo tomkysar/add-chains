@@ -1,0 +1,11 @@
+{
+    "chainId": "66665",
+    "rpcs": [
+        "https://rpc.creatorchain.io"
+    ],
+    "name": "Creator Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://explorer.creatorchain.io"
+}

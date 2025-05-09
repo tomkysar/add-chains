@@ -1,0 +1,9 @@
+{
+    "chainId": "1000002",
+    "rpcs": [],
+    "name": "Eclipse",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "SVM",
+    "explorer": "https://eclipsescan.xyz"
+}

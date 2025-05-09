@@ -1,0 +1,11 @@
+{
+    "chainId": "2525",
+    "rpcs": [
+        "https://inevm.calderachain.xyz/http"
+    ],
+    "name": "Injective EVM",
+    "symbol": "INJ",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://inevm.calderaexplorer.xyz"
+}

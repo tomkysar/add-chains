@@ -1,0 +1,11 @@
+{
+    "chainId": "267",
+    "rpcs": [
+        "https://testnet.rpc.neuraprotocol.io"
+    ],
+    "name": "Neura Testnet",
+    "symbol": "ANKR",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://testnet-blockscout.infra.neuraprotocol.io"
+}

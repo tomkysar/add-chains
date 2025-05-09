@@ -1,0 +1,11 @@
+{
+    "chainId": "777777",
+    "rpcs": [
+        "https://rpc.winr.games"
+    ],
+    "name": "WINR",
+    "symbol": "WINR",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.winr.games"
+}

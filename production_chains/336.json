@@ -1,0 +1,11 @@
+{
+    "chainId": "336",
+    "rpcs": [
+        "https://evm.shiden.astar.network"
+    ],
+    "name": "Shiden",
+    "symbol": "SDN",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://blockscout.com/shiden"
+}

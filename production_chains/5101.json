@@ -1,0 +1,11 @@
+{
+    "chainId": "5101",
+    "rpcs": [
+        "https://rpc-frame.syndicate.io"
+    ],
+    "name": "Syndicate Frame",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer-frame.syndicate.io"
+}

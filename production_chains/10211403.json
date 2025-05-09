@@ -1,0 +1,11 @@
+{
+    "chainId": "10211403",
+    "rpcs": [
+        "https://glhf-testnet.rpc.caldera.xyz/http"
+    ],
+    "name": "GLHF Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://glhf-testnet.explorer.caldera.xyz"
+}

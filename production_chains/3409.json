@@ -1,0 +1,12 @@
+{
+    "chainId": "3409",
+    "rpcs": [
+        "https://rpc-pepe-unchained-gupg0lo9wf.t.conduit.xyz/BroiZZfDas2mzp3gtKNpwepAmJBtL39ZY",
+        "https://3409.rpc.thirdweb.com/team_clvoucvfs034wseg17pbby0ft"
+    ],
+    "name": "Pepe Unchained",
+    "symbol": "PEPU",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": ""
+}

@@ -1,0 +1,12 @@
+{
+    "chainId": "1946",
+    "rpcs": [
+        "https://soneium-minato.g.alchemy.com/v2/7CYIKsaepW8DSjVC9-dY7NoEyc8b_OTm",
+        "https://rpc.minato.soneium.org"
+    ],
+    "name": "Soneium Minato",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://explorer-testnet.soneium.org"
+}

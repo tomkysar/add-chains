@@ -1,0 +1,11 @@
+{
+    "chainId": "919",
+    "rpcs": [
+        "https://sepolia.mode.network/"
+    ],
+    "name": "Mode Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://sepolia.explorer.mode.network"
+}

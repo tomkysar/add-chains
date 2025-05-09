@@ -1,0 +1,9 @@
+{
+    "chainId": "1000007",
+    "rpcs": [],
+    "name": "Solana Devnet",
+    "symbol": "SOL",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://solscan.io"
+}

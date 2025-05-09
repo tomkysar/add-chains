@@ -1,0 +1,12 @@
+{
+    "chainId": "81457",
+    "rpcs": [
+        "https://blast-mainnet.g.alchemy.com/v2/7CYIKsaepW8DSjVC9-dY7NoEyc8b_OTm",
+        "https://rpc.blast.io"
+    ],
+    "name": "Blast",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://blastscan.io"
+}

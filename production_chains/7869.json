@@ -1,0 +1,12 @@
+{
+    "chainId": "7869",
+    "rpcs": [
+        "https://rpc-powerloom-mainnet-v2-v52tbqo4if.t.conduit.xyz/BroiZZfDas2mzp3gtKNpwepAmJBtL39ZY",
+        "https://rpc-v2.powerloom.network"
+    ],
+    "name": "Powerloom V2",
+    "symbol": "POWER",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer-v2.powerloom.network"
+}

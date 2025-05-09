@@ -1,0 +1,11 @@
+{
+    "chainId": "2035",
+    "rpcs": [
+        "https://rpc.phala.network"
+    ],
+    "name": "Phala",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.phala.network"
+}

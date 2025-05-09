@@ -1,0 +1,11 @@
+{
+    "chainId": "820",
+    "rpcs": [
+        "https://rpc.callistodao.org"
+    ],
+    "name": "Callisto",
+    "symbol": "CLO",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.callisto.network"
+}

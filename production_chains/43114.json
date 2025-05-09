@@ -1,0 +1,13 @@
+{
+    "chainId": "43114",
+    "rpcs": [
+        "https://avax-mainnet.g.alchemy.com/v2/7CYIKsaepW8DSjVC9-dY7NoEyc8b_OTm",
+        "https://api.avax.network/ext/bc/C/rpc",
+        "https://avalanche.public-rpc.com"
+    ],
+    "name": "Avalanche",
+    "symbol": "AVAX",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://subnets.avax.network/c-chain"
+}

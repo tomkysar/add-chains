@@ -1,0 +1,12 @@
+{
+    "chainId": "255",
+    "rpcs": [
+        "https://lb.drpc.org/ogrpc?network=kroma&dkey=AoJh2RKNJUIviZEZZt-0igEzVw0J7wQR773l0mSYF3e0",
+        "https://api.kroma.network/"
+    ],
+    "name": "Kroma",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://kromascan.com"
+}

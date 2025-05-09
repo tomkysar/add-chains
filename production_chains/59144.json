@@ -1,0 +1,12 @@
+{
+    "chainId": "59144",
+    "rpcs": [
+        "https://linea-mainnet.g.alchemy.com/v2/7CYIKsaepW8DSjVC9-dY7NoEyc8b_OTm",
+        "https://rpc.linea.build"
+    ],
+    "name": "Linea",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://lineascan.build"
+}

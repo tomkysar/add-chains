@@ -1,0 +1,11 @@
+{
+    "chainId": "1729",
+    "rpcs": [
+        "https://rpc.reya.network"
+    ],
+    "name": "Reya",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.reya.network"
+}

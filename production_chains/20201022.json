@@ -1,0 +1,11 @@
+{
+    "chainId": "20201022",
+    "rpcs": [
+        "https://pegorpc.com"
+    ],
+    "name": "PEGO",
+    "symbol": "PG",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://scan.pego.network"
+}

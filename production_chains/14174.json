@@ -1,0 +1,11 @@
+{
+    "chainId": "14174",
+    "rpcs": [
+        "https://rpc.pecorino.signet.sh"
+    ],
+    "name": "Signet Pecorino",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://explorer.pecorino.signet.sh"
+}

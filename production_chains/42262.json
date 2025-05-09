@@ -1,0 +1,11 @@
+{
+    "chainId": "42262",
+    "rpcs": [
+        "https://emerald.oasis.dev"
+    ],
+    "name": "Oasis Emerald",
+    "symbol": "ROSE",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.emerald.oasis.dev"
+}

@@ -1,0 +1,9 @@
+{
+    "chainId": "1000004",
+    "rpcs": [],
+    "name": "Solana Testnet",
+    "symbol": "SOL",
+    "mainnet": false,
+    "address": "SVM",
+    "explorer": "https://solscan.io/"
+}

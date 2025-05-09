@@ -1,0 +1,11 @@
+{
+    "chainId": "320",
+    "rpcs": [
+        "https://rpc.zkcandy.io"
+    ],
+    "name": "zkCandy",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.zkcandy.io"
+}

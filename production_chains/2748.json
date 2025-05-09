@@ -1,0 +1,11 @@
+{
+    "chainId": "2748",
+    "rpcs": [
+        "https://rpc-testnet.taker.xyz"
+    ],
+    "name": "Taker Testnet",
+    "symbol": "TAKER",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://testnet-explorer.taker.xyz"
+}

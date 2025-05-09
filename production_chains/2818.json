@@ -1,0 +1,12 @@
+{
+    "chainId": "2818",
+    "rpcs": [
+        "https://rpc-quicknode.morphl2.io",
+        "https://rpc.morphl2.io"
+    ],
+    "name": "Morph",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": ""
+}

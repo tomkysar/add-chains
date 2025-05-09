@@ -1,0 +1,11 @@
+{
+    "chainId": "1942999413",
+    "rpcs": [
+        "https://rpc.testnet.humanity.org"
+    ],
+    "name": "Humanity Testnet",
+    "symbol": "tHP",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://explorer.testnet.humanity.org"
+}

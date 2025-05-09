@@ -1,0 +1,12 @@
+{
+    "chainId": "1329",
+    "rpcs": [
+        "https://lb.drpc.org/ogrpc?network=sei&dkey=AoJh2RKNJUIviZEZZt-0igEzVw0J7wQR773l0mSYF3e0",
+        "https://evm-rpc.sei-apis.com/"
+    ],
+    "name": "Sei",
+    "symbol": "SEI",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://seitrace.com"
+}

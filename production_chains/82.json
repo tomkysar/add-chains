@@ -1,0 +1,11 @@
+{
+    "chainId": "82",
+    "rpcs": [
+        "https://rpc.meter.io/"
+    ],
+    "name": "Meter",
+    "symbol": "MTR",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://scan.meter.io"
+}

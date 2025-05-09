@@ -1,0 +1,11 @@
+{
+    "chainId": "478",
+    "rpcs": [
+        "https://rpc.form.network/http"
+    ],
+    "name": "Form",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.form.network"
+}

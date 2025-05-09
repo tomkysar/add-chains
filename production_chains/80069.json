@@ -1,0 +1,11 @@
+{
+    "chainId": "80069",
+    "rpcs": [
+        "https://bepolia.rpc.berachain.com"
+    ],
+    "name": "Berachain Bepolia",
+    "symbol": "BERA",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://bepolia.beratrail.io"
+}

@@ -1,0 +1,11 @@
+{
+    "chainId": "369",
+    "rpcs": [
+        "https://rpc.pulsechain.com"
+    ],
+    "name": "Pulsechain",
+    "symbol": "PLS",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://otter.pulsechain.com/"
+}

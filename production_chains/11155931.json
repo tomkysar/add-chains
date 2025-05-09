@@ -1,0 +1,11 @@
+{
+    "chainId": "11155931",
+    "rpcs": [
+        "https://testnet.riselabs.xyz"
+    ],
+    "name": "RISE Testnet",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://explorer.testnet.riselabs.xyz"
+}

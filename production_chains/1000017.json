@@ -1,0 +1,9 @@
+{
+    "chainId": "1000017",
+    "rpcs": [],
+    "name": "Movement Aptos Bardock",
+    "symbol": "MOVE",
+    "mainnet": false,
+    "address": "FUEL",
+    "explorer": "https://explorer.movementlabs.xyz"
+}

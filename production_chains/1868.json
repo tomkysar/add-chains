@@ -1,0 +1,11 @@
+{
+    "chainId": "1868",
+    "rpcs": [
+        "https://soneium-mainnet.g.alchemy.com/v2/7CYIKsaepW8DSjVC9-dY7NoEyc8b_OTm"
+    ],
+    "name": "Soneium",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://soneium.blockscout.com"
+}

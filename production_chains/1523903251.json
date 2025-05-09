@@ -1,0 +1,11 @@
+{
+    "chainId": "1523903251",
+    "rpcs": [
+        "https://rpc-testnet.haust.app"
+    ],
+    "name": "Haust Testnet",
+    "symbol": "HAUST",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://explorer-testnet.haust.app"
+}

@@ -1,0 +1,11 @@
+{
+    "chainId": "50312",
+    "rpcs": [
+        "https://rpc.ankr.com/somnia_testnet/697e90c0df4c82240c1def9ca28fea89eb5bd48dba57b3bde249af9ae1269394"
+    ],
+    "name": "Somnia Testnet",
+    "symbol": "STT",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://somnia-testnet.socialscan.io"
+}

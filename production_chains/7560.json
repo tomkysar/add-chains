@@ -1,0 +1,11 @@
+{
+    "chainId": "7560",
+    "rpcs": [
+        "https://cyber.alt.technology"
+    ],
+    "name": "Cyber",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://cyber-explorer.alt.technology"
+}

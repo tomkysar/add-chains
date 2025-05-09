@@ -1,0 +1,13 @@
+{
+    "chainId": "57073",
+    "rpcs": [
+        "https://ink-mainnet.g.alchemy.com/v2/7CYIKsaepW8DSjVC9-dY7NoEyc8b_OTm",
+        "https://lingering-radial-arrow.ink-mainnet.quiknode.pro/798a3ab6cfa8db1860a16308a396623ed96e0897",
+        "https://ink.drpc.org"
+    ],
+    "name": "Ink",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": ""
+}

@@ -1,0 +1,11 @@
+{
+    "chainId": "281123",
+    "rpcs": [
+        "https://rpc.parthenon.athenescan.io/"
+    ],
+    "name": "Athene Parthenon",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://parthenon.athenescan.io"
+}

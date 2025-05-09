@@ -1,0 +1,11 @@
+{
+    "chainId": "9897",
+    "rpcs": [
+        "https://rpc.arena-z.t.raas.gelato.cloud"
+    ],
+    "name": "Arena-Z Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://arena-z.blockscout.com"
+}

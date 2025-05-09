@@ -1,0 +1,11 @@
+{
+    "chainId": "248",
+    "rpcs": [
+        "https://oasys.blockpi.network/v1/rpc/public"
+    ],
+    "name": "Oasys",
+    "symbol": "OAS",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.oasys.games"
+}

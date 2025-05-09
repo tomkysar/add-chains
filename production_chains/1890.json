@@ -1,0 +1,11 @@
+{
+    "chainId": "1890",
+    "rpcs": [
+        "https://replicator.phoenix.lightlink.io/rpc/v1"
+    ],
+    "name": "Lightlink",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://phoenix.lightlink.io"
+}

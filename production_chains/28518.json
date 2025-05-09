@@ -1,0 +1,11 @@
+{
+    "chainId": "28518",
+    "rpcs": [
+        "https://rpc.vizing.com/"
+    ],
+    "name": "Vizing",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.vizing.com"
+}

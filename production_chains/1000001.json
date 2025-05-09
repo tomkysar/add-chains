@@ -1,0 +1,9 @@
+{
+    "chainId": "1000001",
+    "rpcs": [],
+    "name": "Tron",
+    "symbol": "TRX",
+    "mainnet": true,
+    "address": "TRON",
+    "explorer": "https://tronscan.org/"
+}

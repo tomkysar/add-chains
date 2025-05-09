@@ -1,0 +1,11 @@
+{
+    "chainId": "111188",
+    "rpcs": [
+        "https://lb.drpc.org/ogrpc?network=real&dkey=AoJh2RKNJUIviZEZZt-0igEzVw0J7wQR773l0mSYF3e0"
+    ],
+    "name": "Re.al",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.re.al"
+}

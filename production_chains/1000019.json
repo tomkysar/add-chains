@@ -1,0 +1,9 @@
+{
+    "chainId": "1000019",
+    "rpcs": [],
+    "name": "Soon Testnet",
+    "symbol": "SOL",
+    "mainnet": false,
+    "address": "SVM",
+    "explorer": "https://explorer.testnet.soo.network"
+}

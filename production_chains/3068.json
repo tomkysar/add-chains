@@ -1,0 +1,11 @@
+{
+    "chainId": "3068",
+    "rpcs": [
+        "https://public-01.mainnet.bifrostnetwork.com/rpc"
+    ],
+    "name": "BiFrost",
+    "symbol": "BFC",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.mainnet.bifrostnetwork.com"
+}

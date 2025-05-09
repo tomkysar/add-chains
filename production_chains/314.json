@@ -1,0 +1,11 @@
+{
+    "chainId": "314",
+    "rpcs": [
+        "https://api.node.glif.io"
+    ],
+    "name": "Filecoin",
+    "symbol": "FIL",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://filfox.info/en"
+}

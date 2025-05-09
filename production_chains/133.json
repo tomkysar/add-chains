@@ -1,0 +1,11 @@
+{
+    "chainId": "133",
+    "rpcs": [
+        "https://hashkeychain-testnet.alt.technology"
+    ],
+    "name": "Hashkey Sepolia",
+    "symbol": "HSK",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://explorer.hsk.xyz"
+}

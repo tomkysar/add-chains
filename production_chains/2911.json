@@ -1,0 +1,11 @@
+{
+    "chainId": "2911",
+    "rpcs": [
+        "https://hychain.calderachain.xyz/http"
+    ],
+    "name": "Hychain",
+    "symbol": "TOPIA",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.hychain.com"
+}

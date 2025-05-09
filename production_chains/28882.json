@@ -1,0 +1,11 @@
+{
+    "chainId": "28882",
+    "rpcs": [
+        "https://sepolia.boba.network"
+    ],
+    "name": "Boba Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://testnet.bobascan.com"
+}

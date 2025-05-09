@@ -1,0 +1,13 @@
+{
+    "chainId": "34443",
+    "rpcs": [
+        "https://lb.drpc.org/ogrpc?network=mode&dkey=AoJh2RKNJUIviZEZZt-0igEzVw0J7wQR773l0mSYF3e0",
+        "https://mainnet.mode.network/",
+        "https://rpc-mode-mainnet-0.t.conduit.xyz/BroiZZfDas2mzp3gtKNpwepAmJBtL39ZY"
+    ],
+    "name": "Mode",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.mode.network"
+}

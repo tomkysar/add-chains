@@ -1,0 +1,13 @@
+{
+    "chainId": "80094",
+    "rpcs": [
+        "https://berachain-mainnet.g.alchemy.com/v2/7CYIKsaepW8DSjVC9-dY7NoEyc8b_OTm",
+        "https://rpc.berachain.com",
+        "https://damp-dark-flower.bera-mainnet.quiknode.pro/cf2b10d76d93a046294669f8c2c9802d3ad15aa7"
+    ],
+    "name": "Berachain",
+    "symbol": "BERA",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": ""
+}

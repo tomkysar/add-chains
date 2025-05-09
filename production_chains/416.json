@@ -1,0 +1,11 @@
+{
+    "chainId": "416",
+    "rpcs": [
+        "https://rpc.sx.technology"
+    ],
+    "name": "SX Network",
+    "symbol": "SX",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.sx.technology"
+}

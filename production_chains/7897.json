@@ -1,0 +1,11 @@
+{
+    "chainId": "7897",
+    "rpcs": [
+        "https://rpc.arena-z.gg"
+    ],
+    "name": "Arena-Z",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.arena-z.gg"
+}

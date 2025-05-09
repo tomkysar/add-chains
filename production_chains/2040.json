@@ -1,0 +1,11 @@
+{
+    "chainId": "2040",
+    "rpcs": [
+        "https://rpc.vanarchain.com"
+    ],
+    "name": "Vanar",
+    "symbol": "VANRY",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": ""
+}

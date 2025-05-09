@@ -1,0 +1,11 @@
+{
+    "chainId": "984122",
+    "rpcs": [
+        "https://rpc.forma.art"
+    ],
+    "name": "Forma",
+    "symbol": "TIA",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.forma.art"
+}

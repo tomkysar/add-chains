@@ -1,0 +1,12 @@
+{
+    "chainId": "10200",
+    "rpcs": [
+        "https://gnosis-chiado.g.alchemy.com/v2/7CYIKsaepW8DSjVC9-dY7NoEyc8b_OTm",
+        "https://rpc.chiadochain.net"
+    ],
+    "name": "Gnosis Chiado",
+    "symbol": "xDAI",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://blockscout.chiadochain.net"
+}

@@ -1,0 +1,11 @@
+{
+    "chainId": "763373",
+    "rpcs": [
+        "https://rpc-gel-sepolia.inkonchain.com"
+    ],
+    "name": "Ink Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://explorer-sepolia.inkonchain.com"
+}

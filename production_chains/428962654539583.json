@@ -1,0 +1,11 @@
+{
+    "chainId": "428962654539583",
+    "rpcs": [
+        "https://jsonrpc-yominet-1.anvil.initia.xyz"
+    ],
+    "name": "Yominet EVM",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://scan.initia.xyz/yominet-1"
+}

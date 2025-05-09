@@ -1,0 +1,9 @@
+{
+    "chainId": "1000025",
+    "rpcs": [],
+    "name": "Echelon",
+    "symbol": "INIT",
+    "mainnet": true,
+    "address": "INIT",
+    "explorer": "https://scan.initia.xyz/echelon-1"
+}

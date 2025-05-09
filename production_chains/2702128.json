@@ -1,0 +1,11 @@
+{
+    "chainId": "2702128",
+    "rpcs": [
+        "https://xterio-eth.alt.technology"
+    ],
+    "name": "Xterio",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://xterio-eth-explorer.alt.technology/"
+}

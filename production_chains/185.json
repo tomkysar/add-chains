@@ -1,0 +1,13 @@
+{
+    "chainId": "185",
+    "rpcs": [
+        "https://rpc.mintchain.io/",
+        "https://rpc-mint-mainnet-0.t.conduit.xyz/BroiZZfDas2mzp3gtKNpwepAmJBtL39ZY",
+        "https://global.rpc.mintchain.io"
+    ],
+    "name": "Mint",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.mintchain.io/"
+}

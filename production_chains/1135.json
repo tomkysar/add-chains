@@ -1,0 +1,11 @@
+{
+    "chainId": "1135",
+    "rpcs": [
+        "https://rpc.api.lisk.com"
+    ],
+    "name": "Lisk",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://blockscout.lisk.com"
+}

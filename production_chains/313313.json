@@ -1,0 +1,12 @@
+{
+    "chainId": "313313",
+    "rpcs": [
+        "https://testnet.saharalabs.ai",
+        "https://rpc2.saharaa.info"
+    ],
+    "name": "Sahara AI Testnet",
+    "symbol": "SAH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://explorer2.saharaa.info"
+}

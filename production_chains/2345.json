@@ -1,0 +1,12 @@
+{
+    "chainId": "2345",
+    "rpcs": [
+        "https://rpc.goat.network",
+        "https://goat-mainnet-alpha.drpc.org"
+    ],
+    "name": "GOAT",
+    "symbol": "BTC",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.goat.network"
+}

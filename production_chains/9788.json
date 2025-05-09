@@ -1,0 +1,11 @@
+{
+    "chainId": "9788",
+    "rpcs": [
+        "https://rpc.testnetv2.tabichain.com"
+    ],
+    "name": "Tabi Testnet v2",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://testnetv2.tabiscan.com"
+}

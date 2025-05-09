@@ -1,0 +1,9 @@
+{
+    "chainId": "1000012",
+    "rpcs": [],
+    "name": "Sui Testnet",
+    "symbol": "SUI",
+    "mainnet": false,
+    "address": "FUEL",
+    "explorer": "https://suiscan.xyz/testnet"
+}

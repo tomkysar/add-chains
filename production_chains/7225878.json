@@ -1,0 +1,11 @@
+{
+    "chainId": "7225878",
+    "rpcs": [
+        "https://rpc.saakuru.network/"
+    ],
+    "name": "Saakuru",
+    "symbol": "OAS",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.saakuru.network/"
+}

@@ -1,0 +1,11 @@
+{
+    "chainId": "50",
+    "rpcs": [
+        "https://rpc.ankr.com/xdc/697e90c0df4c82240c1def9ca28fea89eb5bd48dba57b3bde249af9ae1269394"
+    ],
+    "name": "XDC",
+    "symbol": "XDC",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://xdcscan.com"
+}

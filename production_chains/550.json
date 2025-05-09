@@ -1,0 +1,11 @@
+{
+    "chainId": "550",
+    "rpcs": [
+        "https://mainnet.rpc.river.build/http"
+    ],
+    "name": "River",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": ""
+}

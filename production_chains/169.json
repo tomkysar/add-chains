@@ -1,0 +1,12 @@
+{
+    "chainId": "169",
+    "rpcs": [
+        "https://pacific-rpc.manta.network/http",
+        "https://manta-pacific-gascap.calderachain.xyz/http"
+    ],
+    "name": "Manta",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://pacific-explorer.manta.network"
+}

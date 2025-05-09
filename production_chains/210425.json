@@ -1,0 +1,11 @@
+{
+    "chainId": "210425",
+    "rpcs": [
+        "https://openapi2.platon.network/rpc"
+    ],
+    "name": "PlatON",
+    "symbol": "LAT",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://scan.platon.network"
+}

@@ -1,0 +1,11 @@
+{
+    "chainId": "17777",
+    "rpcs": [
+        "https://api.evm.eosnetwork.com"
+    ],
+    "name": "EOS EVM",
+    "symbol": "EOS",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.evm.eosnetwork.com"
+}

@@ -1,0 +1,11 @@
+{
+    "chainId": "8853",
+    "rpcs": [
+        "https://rpc-clique-mainnet-0.t.conduit.xyz"
+    ],
+    "name": "Clique",
+    "symbol": "ETH",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://explorer.myclique.io"
+}

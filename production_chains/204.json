@@ -1,0 +1,12 @@
+{
+    "chainId": "204",
+    "rpcs": [
+        "https://opbnb-mainnet.g.alchemy.com/v2/7CYIKsaepW8DSjVC9-dY7NoEyc8b_OTm",
+        "https://opbnb-mainnet-rpc.bnbchain.org"
+    ],
+    "name": "opBNB",
+    "symbol": "BNB",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://opbnbscan.com"
+}

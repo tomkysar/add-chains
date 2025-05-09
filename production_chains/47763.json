@@ -1,0 +1,11 @@
+{
+    "chainId": "47763",
+    "rpcs": [
+        "https://mainnet-2.rpc.banelabs.org"
+    ],
+    "name": "Neo X",
+    "symbol": "GAS",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://xexplorer.neo.org"
+}

@@ -1,0 +1,11 @@
+{
+    "chainId": "111557560",
+    "rpcs": [
+        "https://cyber-testnet.alt.technology"
+    ],
+    "name": "Cyber Sepolia",
+    "symbol": "ETH",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://testnet.cyberscan.co"
+}
